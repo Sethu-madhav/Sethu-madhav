@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sethu-madhav
 - 👀 I’m interested in ... Full stack web development, problem solving
-- 🌱 I’m currently learning ... Node and Next.js
+- 🌱 I’m currently working on ... DotNet and Azure
 - 💞️ I’m looking to collaborate on ... open source projects
 - 📫 How to reach me ... sethu4784@gmail.com
 
