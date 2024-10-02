@@ -15,14 +15,14 @@ I'm a passionate **Software Developer** with experience in building web applicat
 
 ## $ Technologies & Tools
 
-![Java](https://img.shields.io/badge/Java-0BFF0B?style=for-the-badge&logo=java&logoColor=black)
-![ReactJS](https://img.shields.io/badge/React-0BFF0B?style=for-the-badge&logo=react&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-0BFF0B?style=for-the-badge&logo=nodedotjs&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-0BFF0B?style=for-the-badge&logo=amazonaws&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-0BFF0B?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-0BFF0B?style=for-the-badge&logo=typescript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-0BFF0B?style=for-the-badge&logo=git&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-0BFF0B?style=for-the-badge&logo=docker&logoColor=black)
+![Java](https://img.shields.io/badge/Java-0BFF0B?style=for-the-badge&logo=java&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-0BFF0B?style=for-the-badge&logo=react&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-0BFF0B?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0BFF0B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0BFF0B?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0BFF0B?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0BFF0B?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0BFF0B?style=for-the-badge&logo=docker&logoColor=white)
 
 ## $ GitHub Stats
 
@@ -31,7 +31,7 @@ I'm a passionate **Software Developer** with experience in building web applicat
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sethu-madhav&theme=github-dark-green" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sethu-madhav&theme=github-dark-blue" />
 </p>
 
 ## $ Top Languages
@@ -48,7 +48,9 @@ I'm a passionate **Software Developer** with experience in building web applicat
 
 ## $ Contribution Graph
 
-[![Sethu's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sethu-madhav&theme=github&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true)](https://github.com/Sethu-madhav)
+<p align="center">
+  <img src="https://github.com/users/Sethu-madhav/contributions" alt="GitHub Contributions">
+</p>
 
 ## $ Projects
 
@@ -87,6 +89,8 @@ I'm a passionate **Software Developer** with experience in building web applicat
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sethu-madhav/Sethu-madhav/main/terminal.gif" />
 </p>
+
+
 
 <!---
 Sethu-madhav/Sethu-madhav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
