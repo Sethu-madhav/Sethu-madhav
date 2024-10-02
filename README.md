@@ -1,10 +1,6 @@
 
-<h1 align="center">
-  Welcome to <span style="color:#00FF00;">Sethu-madhav's</span> Terminal!
-</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=650&height=60&lines=Hello+World!+I'm+Sethu!;Software+Developer+with+Java+%2F+React+%2F+AWS+Experience;Crafting+Cool+Code+%26+Apps" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&height=60&lines=Hello+World!+I'm+Sethu!;Software+Developer+with+Java+%2F+React+%2F+AWS+Experience;Crafting+Cool+Code+%26+Apps" alt="Typing SVG">
 </p>
 
 ---
